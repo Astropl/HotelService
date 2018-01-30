@@ -1,5 +1,5 @@
 package HotelServiceProjektowanieObiektowe;
 
-public class Variables {
+public interface ListaPokoji<R> {
 
 }
